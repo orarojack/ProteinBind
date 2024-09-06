@@ -14,7 +14,7 @@
     "@xmtp/content-type-reaction": "^1.1.9",
     "@xmtp/content-type-remote-attachment": "^1.1.8",
     "@xmtp/content-type-reply": "^1.1.11",
-    "@xmtp/message-kit": "^0.0.9",
+    "@xmtp/message-kit": "^0.0.14",
     "@xmtp/react-sdk": "^5.1.0",
     "ably": "^2.3.1",
     "apexcharts": "^3.45.2",
